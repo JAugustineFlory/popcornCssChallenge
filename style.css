@@ -4,6 +4,16 @@ button - #805215
 Header Text - #553100
 Main background - #D4A76A*/
 
+/*----- Global Styling------*/
 body {
     background-color: #D4A76A;
+}
+
+a {text-decoration: none; color: white;}
+
+
+/*----- Header------ */
+header {
+    background-color: #FFDBAA;
+    color: #553100;
 }
